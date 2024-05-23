@@ -8,3 +8,8 @@ Another way could be:
 print([x for x in range(11) if x%2==0])
 
 Later, is called list comprehension. 
+
+Another Example: Suppose temperature is given in celcius and you need to convert it into fahernheit:
+
+celcius = list(range(20,40,5)) #generates list of temperature in celcius 
+fahrenheit = [((9/5)*temp + 32) for temp in celcius] #generates list of temperature in fahrenheit 
