@@ -1,0 +1,5 @@
+Functions are created using def keyword
+def <name of the function>(<argument>)
+  # write what function does
+  return <output from the function>
+
