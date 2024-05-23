@@ -3,3 +3,11 @@ def <name of the function>(<argument>)
   # write what function does
   return <output from the function>
 
+For example: Write a function that takes a number as an argument and return its square:
+def myfunc(num):
+  return num**2
+
+Write a function that prints "Hello World"
+def myfunc(): # does not take any argument
+  print("hello world") #does not have a return statement
+
