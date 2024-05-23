@@ -1,0 +1,10 @@
+Suppose you have to create a list of all even numbers from 0 to 10. One way is:
+
+for i in range(11):
+  if i%2==0:
+    print(i)
+
+Another way could be:
+print([x for x in range(11) if x%2==0])
+
+Later, is called list comprehension. 
