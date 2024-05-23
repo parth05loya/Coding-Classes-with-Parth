@@ -59,7 +59,18 @@ A.split(‘a’) = [“My n”, “me is P”, “rth”]
 print(‘My name is {}’.format(‘Parth’)) 
 print(‘My name is {} {}’.format(‘Parth’, ‘Loya’))
 
+Which of this is a floating point number?
+A) 3.2
+B) 4
+C) 500
+D) 270000
 
+Which of these will output 36?
+A) 30+*6
+B) 6^6
+C)6**6
+D)6*6
+E)6+6+6+6+6
 
 
 
