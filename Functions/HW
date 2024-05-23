@@ -1,0 +1,11 @@
+Write a function that takes in Boolean value and returns 'hello' if it is true or 'goodbye' if it is false. 
+
+Write a function that takes in 3 values x,y,z. If z is true, return x else return y. 
+
+Write a function that takes in 3 2 values and return their sum. 
+
+Write a function that takes two word string and returns True if both word starts with same letter
+
+Write a function that capitalizes first and fourth letter of a given word
+
+Write a function that takes in a sentence as an argument and return a sentence with words reversed. 
