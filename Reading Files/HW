@@ -1,1 +1,4 @@
-
+Write a program that reads a file "input.in" containing any two numbers. For example, first and only line of the file might look like below:
+9 8
+Now, sum the two numbers and the answer should be stored in another file "output.out" containing only one line with an answer. For instance, for above file, output file's first and only line should be:
+17 
