@@ -1,0 +1,65 @@
+Variable
+My_dog  	#Stores value
+A
+B
+#Variables make it easy to call data again and again at multiple places 
+
+
+Dynamic Typing
+
+My_dog = 2
+My_dog = [“Sammy”, “Frankie”]
+
+Value of My_dog can be changed in python unlike C++
+
+Data Types
+
+Integer
+1,2,3, etc are integer
+A = 1
+B = 2
+A + B = 3
+A*B = 2
+A - B = -1
+A/B = 0.5 
+
+Float
+1.5, 3.52, etc are float values i.e. value with decimals
+
+String
+Within single or double quotes
+‘Sammy’
+“Hello” 
+
+A = ‘Sammy’  #Stores value of string 
+
+Indexing of String
+
+A[0] = ‘S’       #Returns first character of string 
+A[1] = ‘a’       #Returns second character
+A[-1] = ‘y’      #Returns last character
+A[-2] = ‘m’	#Returns second last character
+
+String Slicing
+
+A[1:3] = ‘am’  #Starts from second character and counts up to third character
+A[1:] = ‘ammy’ #Starts from second all way to last
+A[::2] = ‘Smy’  #Jumps two characters
+
+Concatenation
+B = ‘Hello’
+A + B = ‘SammyHello’
+‘Python %s’ % ‘Rules!’
+‘2’ + ‘3’ = 23
+
+Methods
+A = “My name is Parth”
+A.split() = [“My”, “name”, “is”, “Parth”]
+A.split(‘a’) = [“My n”, “me is P”, “rth”]
+print(‘My name is {}’.format(‘Parth’)) 
+print(‘My name is {} {}’.format(‘Parth’, ‘Loya’))
+
+
+
+
+
