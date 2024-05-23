@@ -1,0 +1,14 @@
+Build [0,0,0] in two different ways
+
+Reassign 'hello' to 'goodbye' in the following list:
+list3 = [1,2,[3,4,'hello']]
+
+Sort the following list
+list4 = [5,4,2,6,1]
+
+Write one difference between 
+A) dictionary and list
+B) list and string
+c) sets and tuple
+
+
