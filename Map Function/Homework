@@ -1,0 +1,5 @@
+Step 1 - Create a fuction that takes a string and prints the last letter of the string. 
+
+Step 2 - Now run the function on "Aanya", "Madeline", "Parth", "Coding". What output you get?
+
+Now use map function to do Step 2
