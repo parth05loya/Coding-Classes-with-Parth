@@ -1,0 +1,52 @@
+## Map function
+## Define function that takes a number and multiplies by 2
+def multiplies_by_2(num):
+    print(num*2)
+
+## Create a List
+list2 = [1,2,6,7,9,45,3]
+
+## Prints list
+list(map(multiplies_by_2,list2))
+
+## Output
+2
+4
+12
+14
+18
+90
+6
+
+## Map function
+## Define function that checks whether a number is even or not
+def check_even(num):
+    return num%2==0
+
+## Create a List
+list2 = [1,2,6,7,9,45,3]
+
+## Prints list
+print(list(map(check_even,list2)))
+
+##Output
+[False, True, True, False, False, False, False]
+
+## Map function
+## Define function that prints first character of a string
+def first_character_of_string(string):
+    print(string[0])
+
+## Create a List
+list2 = ['Madeline', 'Aanya', 'Parth', 'Python', 'Coding', 'Fun']
+
+## Prints list
+list(map(first_character_of_string,list2))
+
+##Output
+M
+A
+P
+P
+C
+F
