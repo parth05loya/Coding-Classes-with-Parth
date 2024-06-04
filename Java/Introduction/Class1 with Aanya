@@ -1,0 +1,27 @@
+// To declare a variable in Java, you need to specify the data type as well. For instance, 
+int a = 5; 
+// In python you can simply say :
+a = 5
+
+// In Java once  a variable is declared, it doesn't store any other type of variable. For instance,
+int a = 5;
+String a = "Sammy"; // This will throw error
+a = 7; // This will work because data type remains integer
+
+
+char a = 'D'; // Character is another data type in Java that stores only a single letter. It has single quotes. 
+int b = 7; // Integer is a data type that stores whole number
+String c = "Sammy"; // String holds a word or a sentence in double quotes
+
+//In Java every statement ends with ;
+
+//In order to print something in Java following code is used
+
+class HelloWorld {
+    public static void main (String args[]) {
+    System.out.println("Hello World");
+    }
+}
+
+// Every program in Java starts with a class
+// Notice the use of curly brackets
