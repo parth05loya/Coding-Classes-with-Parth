@@ -10,19 +10,3 @@ String = 'Print every word in this sentence that has even number of letters'
 Example output: word <-- even 
                 this <-- even 
 
-################################################################################################################################################################
-Write a short note explain what does the below code do? Also tell me what all are variables in this code. 
-
-number = int(input("Enter a number: "))
-
-factorial = 1
-current_number = 1
-
-while current_number <= number:
-    factorial *= current_number
-    current_number += 1
-
-print("Factorial of", number, "is", factorial)
-
-################################################################################################################################################################
-Now, rewrite the above code using for loop instead of while loop. 
